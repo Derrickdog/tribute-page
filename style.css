@@ -6,10 +6,10 @@ body{
     margin: 0;
 }
 
+/* title */
 #title{
     padding-top: 40px;
 }
-
 #img-div{
     background-color: white;
     margin: 0;
@@ -22,21 +22,20 @@ body{
     padding-top: 20px;
 }
 
-.logo{
-    list-style: none;
-    text-align: center;
-}
-
+/* content */
 #headline{
-    margin: 48px 0;
+    margin-top: 48px;
 }
-
 ul {
-    max-width: 600px;
+    max-width: 550px;
     margin: 0 auto 50px auto;
     text-align: left;
   }
-
-  li {
-    margin: 32px auto;
-  }
+.logo{
+    list-style: none;
+    text-align: center;
+    margin-top: 64px;
+}
+li {
+    margin-top: 24px;
+}
