@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #eee;
+    color: #333;
+    margin: 0;
+}
+
+#title{
+    padding-top: 40px;
+}
+
+#img-div{
+    background-color: white;
+    margin: 0;
+    padding: 40px 0px 20px 0px;
+}
+#image{
+    max-width: 50%;
+}
+#img-caption{
+    padding-top: 20px;
+}
+
+.logo{
+    list-style: none;
+    text-align: center;
+}
+
+#headline{
+    margin: 48px 0;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+
+  li {
+    margin: 32px auto;
+  }
