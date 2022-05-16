@@ -10,14 +10,17 @@ body{
 #title{
     padding-top: 40px;
 }
+
 #img-div{
     background-color: white;
     margin: 0;
     padding: 40px 0px 20px 0px;
 }
+
 #image{
     max-width: 50%;
 }
+
 #img-caption{
     padding-top: 20px;
 }
@@ -26,17 +29,20 @@ body{
 #headline{
     margin-top: 48px;
 }
-ul {
+
+ul{
     max-width: 550px;
     margin: 0 auto 50px auto;
     text-align: left;
-  }
+}
+
 .logo{
     list-style: none;
     text-align: center;
     margin-top: 64px;
 }
-li {
+
+li{
     margin-top: 24px;
 }
 
